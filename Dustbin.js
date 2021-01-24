@@ -8,7 +8,7 @@ class Dustbin
 		this.height = 213;
 		this.wallThickness = 20;
 		this.angle = 0;
-		this.image = loadImage("dustbingreen.png");
+		this.image = loadImage("unnamed.jpg");
 
 		var options =
 		{

@@ -26,9 +26,9 @@ function draw()
 	background(230);
 	rectMode(CENTER);
   
+	paperObject.display();
 	groundObject.display();
 	dustbinObj.display();
-	paperObject.display();
 }
 
 function keyPressed()
